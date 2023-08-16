@@ -1,0 +1,28 @@
+.mainCategory{
+    padding: 30px;
+    width: 100%;
+    background-color: white;
+    text-transform: capitalize;
+}
+
+.mainCategory h2{
+    padding: 0px 0px 10px 0px;
+    font-weight: bolder;
+    border-bottom: 1px solid #dcf2f2;
+}
+
+.mainCategory .uplaod{
+    margin: 10px 0px 0px 0px;
+    padding: 0px 0px 20px 0px;
+    border-bottom: 1px solid #dcf2f2;
+}
+
+.mainCategory .data table{
+    width: 100%;
+    border: 1px solid;
+}
+.mainCategory .data table th,
+.mainCategory .data table td{
+    border: 1px solid;
+}
+

@@ -1,0 +1,50 @@
+/* body {
+} */
+
+.ad {
+    margin: 20px 0px 20px 0px;
+    width: 100%;
+    /* border: 1px solid; */
+    /* Adjust the total animation duration as needed */
+
+}
+
+.ad .ad-inner {
+    margin: auto;
+    padding: 0px;
+    width: 60%;
+    /* height: 100px; */
+    position: relative;
+    /* display: flex; */
+    /* border: 1px solid; */
+}
+
+.ad .ad-inner .ad-slider {
+    width: 100%;
+}
+
+.ad .ad-inner .ad-slider .ad-img {
+    width: 100%;
+    height: auto;
+    /* border: 1px solid; */
+}
+
+.ad .ad-inner button {
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background: none; */
+    outline: none;
+    border: 1px solid #00AECD;
+
+}
+
+.ad .ad-inner button img {
+    width: 15px;
+    height: 15px;
+}

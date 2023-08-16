@@ -1,0 +1,86 @@
+.home {
+    width: 100%;
+}
+
+.home .home-inner {
+    margin: auto;
+    /* padding: 10px; */
+    width: 1300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* border: 1px solid; */
+}
+
+.home .home-inner .olx-slider {
+    margin: auto;
+    width: 100%;
+
+}
+
+.home .home-inner .olx-slider img {
+    width: 100%;
+}
+
+
+
+
+.home .home-inner .olx-download {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f7faf9;
+    /* border: 1px solid; */
+}
+
+.home .home-inner .olx-download div {
+    padding: 0px 10px 0px 0px;
+    width: 33%;
+    /* height: 100%; */
+    overflow: hidden;
+    /* border: 1px solid; */
+}
+
+.home .home-inner .olx-download .olx-web img {
+    width: 100%;
+    height: 200px;
+}
+
+.home .home-inner .olx-download .try-olx h1 {
+    font-size: 2rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.home .home-inner .olx-download .try-olx p {
+    font-size: 1.3rem;
+}
+
+.home .home-inner .olx-download .get-app {
+    height: 140px;
+    padding: 40px 0px 0px 15px;
+    border-left: 2.5px solid #00e9df;
+}
+
+.home .home-inner .olx-download .get-app h5 {
+    font-size: 0.9rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.home .home-inner .olx-download .get-app .download-img {
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    /* border: 1px solid; */
+}
+
+.home .home-inner .olx-download .get-app .download-img img {
+    margin: 0px 10px 0px 0px;
+    width: 130px;
+    height: 40px;
+}
